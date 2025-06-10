@@ -1,0 +1,10 @@
+services:
+
+  applyfy:
+    image: techblog/applyfy
+    container_name: applyfy
+    restart: always
+    networks:
+     - infrastructure
+    ports:
+      - "8111:80"

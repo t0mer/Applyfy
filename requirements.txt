@@ -1,4 +1,4 @@
 fastapi
 uvicorn
-jobspy
 pandas
+python-jobspy

@@ -211,6 +211,7 @@ Create a new n8n workflow, and paste the following json in the canvas:
 * Set the search_term to you desired job.
 * Set the location.
 * Set the hours_old to fit you desired posted jobs Date and Time.
+* Set the number of results to return.
 
 ### Edit the email node:
 * Set the *From Email*

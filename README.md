@@ -221,4 +221,4 @@ Create a new n8n workflow, and paste the following json in the canvas:
 #### Not that if you would like to use Gmail account, you must activate the 2FA and set app password.
 
 Run the flow and you should get an email looks like the following:
-![Email](screenshots/email.png)
+![Email](https://raw.githubusercontent.com/t0mer/Applyfy/main/screenshots/email.png)
